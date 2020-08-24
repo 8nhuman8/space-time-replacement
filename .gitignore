@@ -4,6 +4,9 @@ TODO.txt
 # VS Code workspace settings
 .vscode/
 
+# Frames
+*.jpg
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
