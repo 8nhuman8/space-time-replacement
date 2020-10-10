@@ -19,5 +19,5 @@ def extract_images(path_in: str, path_out: str = 'frames'):
         count += 1
 
 
-if __name__=="__main__":
+if __name__== '__main__':
     extract_images('videos/sample.mp4')
